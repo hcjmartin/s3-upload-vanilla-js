@@ -1,5 +1,5 @@
 # s3-upload-vanilla-js
-Lightweight vanilla JS code example for uploading a file to S3 with zero dependencies.
+Lightweight vanilla JS code example for generating a presigned URL and uploading a file to S3 with zero dependencies.
 
 This is only really useful in secure environments (as your AWS keys will be exposed) where you don't want to (or can't) import the aws-sdk. 
 
